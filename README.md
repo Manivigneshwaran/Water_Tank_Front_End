@@ -10,6 +10,7 @@ To run the project, ensure the following packages are installed:
 Usage:
 1.	Open and run the water_tank_frontend file.
 2.	After running the file, three links will be displayed as output. Like this,
+
         o	Dash is running on http://127.0.0.1:8030/
         o	INFO:dash.dash:Dash is running on http://127.0.0.1:8030/
         o	Dash app running on:
