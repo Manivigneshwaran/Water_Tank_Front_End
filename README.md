@@ -14,8 +14,9 @@ Usage:
         o	Dash is running on http://127.0.0.1:8030/
         o	INFO:dash.dash:Dash is running on http://127.0.0.1:8030/
         o	Dash app running on:
-            http://127.0.0.1:8030/
+                        http://127.0.0.1:8030/
 3.	Click on the third link to access the front-end visualization.
+
         o	Dash app running on:
             •	http://127.0.0.1:8030/
 
